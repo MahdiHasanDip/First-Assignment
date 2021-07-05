@@ -1,10 +1,11 @@
 body{
     font-family: 'Merriweather Sans', sans-serif;;
+    margin: 0%;
 }
 .skip{
     color: rgb(255, 154, 71);
 }
-section{
+.one{
     display: flex;
     margin-bottom: 110px;
 }
@@ -22,7 +23,7 @@ h1{
     font-size: 65px;
 }    
     
-#skip{
+#head{
     margin-top: 50px;
 }
 
@@ -36,21 +37,75 @@ h1{
     color: rgb(92, 92, 92);
     padding-left: 25px;
 }
-.two{
-    background-image:url(images/three.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    
-}
-.one{
-    
-}
 .click{
-   text-decoration: none;
-   background: linear-gradient(rgb(247, 160, 90), rgb(245, 99, 73));  
-   padding: 15px 30px;
-   border-radius: 30px;
-   color: whitesmoke;
+    text-decoration: none;
+    background: linear-gradient(rgb(247, 160, 90), rgb(245, 99, 73));  
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: whitesmoke;
+ 
+ }
+.two{
+    display: flex;
+    background-image: url(images/three.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 50px;
+    
+    
+
+        
+}
+.two h2{
+ 
 
 }
+.about{
+    width: 50%;
+    margin: 0px 50px;
+    margin-top: 100px;
+}
+.about img{
+    width: 40%;
+    margin-left: 180px;
+
+}
+.about p{
+    margin-right: 150px;
+}
+.card{
+    width: 20%;
+    margin: 5% 3%;
+    padding: 15px;
+    text-align: left;
+    border-radius: 15px;
+   box-shadow: 3px 3px 3px gray;
+   
+}
+.recipe
+{
+text-align: center;
+padding: 2% 25%;
+color: rgb(63, 60, 60);
+}
+.card img{
+width: 100%;
+padding: ;
+
+}
+.box{
+    display: flex
+}
+
+
+
+
+
+
+
+.foot{
+   background-color: black;
+ color: cornsilk;
+
+}
+

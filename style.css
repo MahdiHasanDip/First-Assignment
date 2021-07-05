@@ -1,0 +1,56 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;;
+}
+.skip{
+    color: rgb(255, 154, 71);
+}
+section{
+    display: flex;
+    margin-bottom: 110px;
+}
+.blog h1{
+    font-size:50px ;
+    margin-top: 80px;
+    color: rgb(80, 74, 74);
+}
+.blog{
+    width: 80%;
+    padding-left: 8%;
+}
+
+h1{
+    font-size: 65px;
+}    
+    
+#skip{
+    margin-top: 50px;
+}
+
+
+.blog img{
+    width: 100%;
+    
+}
+
+.blog p{
+    color: rgb(92, 92, 92);
+    padding-left: 25px;
+}
+.two{
+    background-image:url(images/three.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+.one{
+    
+}
+.click{
+   text-decoration: none;
+   background: linear-gradient(rgb(247, 160, 90), rgb(245, 99, 73));  
+   padding: 15px 30px;
+   border-radius: 30px;
+   color: whitesmoke;
+
+}

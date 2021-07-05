@@ -43,7 +43,7 @@ h1{
     padding: 15px 30px;
     border-radius: 30px;
     color: whitesmoke;
- 
+ box-shadow: 2px 2px 5px rgb(236, 131, 61) ;
  }
 .two{
     display: flex;
@@ -74,9 +74,9 @@ h1{
     margin-right: 150px;
 }
 .card{
-    width: 20%;
-    margin: 5% 3%;
-    padding: 15px;
+    width: 50%;
+    margin: 50px 50px;
+    padding: 20px;
     text-align: left;
     border-radius: 15px;
    box-shadow: 3px 3px 3px gray;
@@ -87,6 +87,7 @@ h1{
 text-align: center;
 padding: 2% 25%;
 color: rgb(63, 60, 60);
+
 }
 .card img{
 width: 100%;
@@ -106,6 +107,11 @@ padding: ;
 .foot{
    background-color: black;
  color: cornsilk;
+ text-align: center;
+
 
 }
-
+#network{
+    color: gray;
+    
+}

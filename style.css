@@ -90,6 +90,13 @@ width: 100%;
     
     
 }
+
+#find{
+    text-align: center;
+    width: 300px;
+    box-shadow: 3px 3px 10px gray;  
+
+}
 .foot{
    background-color: black;
  color: white;
@@ -100,3 +107,4 @@ width: 100%;
     color: gray;
     
 }
+

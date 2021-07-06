@@ -68,8 +68,8 @@ padding: 75px 50px;
 color: rgb(92, 92, 92);
 }
 .card{
-    width: 50%;
-    margin: 0% 5% 5% 2%;
+    width: 300px;
+    margin: 5% 3%;
     padding: 20px;
     text-align: left;
     border-radius: 15px;
@@ -84,8 +84,11 @@ color: rgb(63, 60, 60);
 width: 100%;
 
 }
-.box{
-    display: flex
+#box{
+    display: flex;
+    margin: 0% 5%;
+    
+    
 }
 .foot{
    background-color: black;
